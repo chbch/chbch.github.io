@@ -26,7 +26,7 @@ Children ages 3 years and above must be potty trained.
 ### 2018-2019 Tuition
 
 **Monthly tuition**
-
+| -------- | ------- |
 | 1 child  | $160.00 |
 | 2 children | $300.00 |
 | 3 children | $420.00 |
