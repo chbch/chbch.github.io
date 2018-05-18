@@ -1,4 +1,4 @@
-# Calvary Hills BC Mother's Day Out|
+# Calvary Hills BC Mother's Day Out
 ![](sun.png)
 
 Oh, how sweet the light of day, 
