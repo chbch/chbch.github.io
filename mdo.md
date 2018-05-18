@@ -23,6 +23,9 @@ Children who celebrate their 5th birthday after September 1st are also welcome.
 
 Children ages 3 years and above must be potty trained.
 
+_____
+
+
 ### 2018-2019 Monthly Tuition
 
 | Children | Tuition |
@@ -34,6 +37,9 @@ Children ages 3 years and above must be potty trained.
 Tuition is due each month, on the first teaching day of the month.
 
 Tuition remains the same regardless of how many days are in the month.
+
+_____
+
 
 **Annual Registration/Activity Fee**
 
