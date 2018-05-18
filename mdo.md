@@ -5,7 +5,9 @@ Oh, how sweet the light of day,
 And how wonderful to live in the sunshine!
 
 *Ecclesiastes 11:7 (MSG)*
+
 _____
+
 **Established 1991**
 
 Our goal at Calvary Hills Mother’s Day Out is to provide a safe loving environment for children 12 months to pre-kindergarten where they may grow in their understanding of themselves, their families, the world and God ’s love as well as their abilities in problem solving, language skills and creative expression through music, art, and play.
@@ -43,6 +45,7 @@ Activities throughout the year may involve costs not covered by tuition or regis
 For more information call 210-663-2159
 
 [Like us on Facebook!](https://www.facebook.com/Calvary-Hills-Mothers-Day-Out-367721523418178/)
+
 _____
 
 [Registration Form](chbc_mdo_registration_form.pdf)
