@@ -2,7 +2,7 @@
 Men that are Deacon's, Teacher's, Prayer Warriors & Servants of God, all learning and doing in Jesus's name.
 
 ## Women's Ministry
-Our vision includes providing the following for women of every age in our church and to those outside our church
+Bringing women together to share in the Great Commission through service and support to others through important social contact and strengthening their relationship with God.
 
 ## Youth Ministry
 The Youth Ministry at Calvary Hills Baptist Church is a priority for the entire church and seeks to provide fellowship for today's youth among Christians.
