@@ -2,7 +2,7 @@
 
 *As of May 7, 2018*
 
-| **Class Names** | **Spaces** |
+|  |  |
 | ------------------------------ | -------- |
 | Younger One's (12 - 18 Months) | 0 spaces |
 | Older One's (18 - 24 Months)   | 2 spaces |
