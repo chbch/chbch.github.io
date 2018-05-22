@@ -1,5 +1,5 @@
 ## Brotherhood Ministry
-Men that are Deacon's, Teacher's, Prayer Warriors & Servants of God, all learning and doing in Jesus's name.
+Men that are Deacons, Teachers, Prayer Warriors & Servants of God, all learning and doing in Jesus's name.
 
 ## Women's Ministry
 Bringing women together to share in the Great Commission through service and support to others through important social contact and strengthening their relationship with God.
@@ -15,4 +15,4 @@ The Prime Timers meet every Thursday in the Small Fellowship Hall at 10 a.m to p
 New faces are always welcome.
 
 ## Worship
-Sunday morning worship is led by a praise team and includes both contemporary and traditional hymns. The praise team is a weekly rotation of men and women. Practices are on Wednesdays at 7:30 pm and Sundays at 9 am.
+Sunday morning worship is led by a praise team and includes both contemporary and traditional hymns. The praise team is a weekly rotation of men and women. Practices are on Wednesdays at 7:30 pm and Sundays at 9 am. We are always looking for additional musicians, both singers and especially instrumentalists to to join the group and play on a rotational basis.  Please contact the church for an audition.
