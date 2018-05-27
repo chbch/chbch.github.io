@@ -8,7 +8,7 @@ Bringing women together to share in the Great Commission through service and sup
 The Youth Ministry at Calvary Hills Baptist Church is a priority for the entire church and seeks to provide fellowship for today's youth among Christians.
 
 ## Preschool & Children's Ministry
-The Preschool program is open for children birth through kindergarten. Childrens activities are availible for grades 1st - 5th.
+The Preschool program is open for children birth through kindergarten. Childrens activities are available for grades 1st - 5th.
 
 ## Seniors Ministry
 The Prime Timers meet every Thursday in the Small Fellowship Hall at 10 a.m to play dominos. This close-knit group celebrates birthdays on a monthly basis and hosts holiday parties.
