@@ -2,7 +2,7 @@
 
 7/23/18 – 7/28/18
 
-![](https://rrr.cokesburyvbs.com/images/main/logo.png)
+[![](https://rrr.cokesburyvbs.com/images/main/logo.png)](https://rrr.cokesburyvbs.com/calvaryhillsbaptist)
 
 # Join us in worship Sunday morning 
 ## &nbsp;&nbsp;9:30 for Sunday School
