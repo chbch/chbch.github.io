@@ -463,18 +463,6 @@
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.76851273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker19119)"
        sodipodi:nodetypes="cc" />
     <text
-       sodipodi:linespacing="125%"
-       id="text19675"
-       y="602.52466"
-       x="48.944637"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.76384544px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="48.944637"
-         x="602.52466"
-         id="tspan19677"
-         sodipodi:role="line"
-         style="writing-mode:tb-rl">1604 N</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.05492592px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="887.26349"
@@ -498,5 +486,18 @@
        d="m 435.7632,914.02586 0,-45.96329"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.76900005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4992)"
        sodipodi:nodetypes="cc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4318"
+       y="58.70787"
+       x="-684.96661"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.05492592px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         y="58.70787"
+         x="-684.96661"
+         id="tspan4320"
+         sodipodi:role="line"
+         style="writing-mode:lr-tb">Northbound 1604</tspan></text>
   </g>
 </svg>
