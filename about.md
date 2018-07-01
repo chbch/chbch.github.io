@@ -10,5 +10,3 @@ Check out our regular [weekly schedule](cal.md) and come work with us in our [mi
 We are located at [910 W. Loop 1604 North](https://goo.gl/maps/YCmg9fCGHXT2)
 
 ![](map.svg)
-
-| [about](about.md) | [ministries](ministries.md) | [schedule](cal.md) | [MDO](mdo.md) | 
