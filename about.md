@@ -2,6 +2,10 @@
 ## Welcome
 We are a Southern Baptist Church. We are affiliated with the Baptist General Convention of Texas and the San Antonio Baptist Association. Read our [Statement of Faith](http://www.sbc.net/bfm2000/bfm2000.asp).
 
+## Our Staff
+| Frank Jackson | Chris Engstrom | Eric Shields | Tina Burns | Michelle Valmé |
+| :-------------: | :--------------: | :------------: | :----------: | :--------------: |
+| Interim Pastor | Director of Music | Director of Student Ministry | Mother's Day Out Director | Church Secretary |
 
 ## Serve and Fellowship with us
 Come by Sunday morning at 9:30 for Sunday School and stay for our Worship Service at 11:00. 
