@@ -14,7 +14,7 @@ Tina Burns - Mother's Day Out Director
 
 Michelle Valmé - Church Secretary
 
-### Contact Information
+## Contact Information
 
 Church Office : 210-681-2446
 
