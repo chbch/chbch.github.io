@@ -39,9 +39,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8582766"
-     inkscape:cx="169.11243"
-     inkscape:cy="144.57596"
+     inkscape:zoom="2.628"
+     inkscape:cx="250"
+     inkscape:cy="80"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,9 +84,9 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647">Calvary Hills</tspan><tspan
          sodipodi:role="line"
          x="229.32686"
-         y="983.13934"
+         y="952.78296"
          id="tspan4140"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647">Baptist Church</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647" /></text>
     <g
        id="g79310"
        transform="matrix(0.19371214,0,0,0.19371215,10.265598,829.73915)"
@@ -240,5 +240,29 @@
          x="5.0219798"
          y="1040.3099"
          style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:BonvenoCF;-inkscape-font-specification:'BonvenoCF Ultra-Light';fill:#808080">A family of God, serving families for God</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="222.22221"
+       y="980.4444"
+       id="text4163"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4165"
+         x="222.22221"
+         y="980.4444"></tspan></text>
+    <text
+       transform="scale(0.95325404,1.0490383)"
+       sodipodi:linespacing="125%"
+       id="text4167"
+       y="946.19287"
+       x="229.32686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.40225983px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647"
+         id="tspan4171"
+         y="946.19287"
+         x="229.32686"
+         sodipodi:role="line">Baptist Church</tspan></text>
   </g>
 </svg>
