@@ -4,9 +4,9 @@ The Preschool program is open for children birth through kindergarten. Childrens
 
 Our Preschool and Children's programs host a number of family-friendly events throughout the year including an Easter Egg Hunt, Vacation Bible School, and our Fall Harvest Fest. Calvary Hills Baptist Church also offers a number of organizations for children to participate.
 
-## Sunday School for Preschoolers
+## Sunday School for Children
 
-On Sunday mornings, the Preschool program is open for children birth through kindergarten. The children hear an age-appropriate Bible lesson, hear music, do a craft, and enjoy free play. We use the Bible Teaching for Kids curriculum.
+On Sunday mornings, the Preschool program is open for children, birth through kindergarten. The children hear an age-appropriate Bible lesson, hear music, do a craft, and enjoy free play. We use the Bible Teaching for Kids curriculum.
 
 The Preschool Ministry is also responsible for providing childcare during other activities at the church.
 
@@ -35,18 +35,10 @@ The girls meet on Wednesday nights from 6:30pm - 7:30pm on the second floor of t
 
 Special events are held throughout the year. These include sleepovers, field trips, bake sales, day camp, and a week-long summer camp at Alto Frio Baptist Encampment.
 
-## Royal Ambassadors
-
-Similar to the GA's, the RA's focus on missions, training young men to be ambassadors for Christ in all aspects of their lives.
-
-When in session, the RA's meet on Wednesday nights from 6:30pm - 7:30pm on the second floor of the Education Building. Boys 1st-6th grade are welcome. This program is free.
-
-RA's have the option of participating in a week-long summer camp.
-
 ## American Heritage Girls
 
 American Heritage Girls (AHG) is a national organization with a vision to help parents raise women of integrity. The program emphasizes leadership, service, character development, outdoor opportunities, social events, and life skill mastery. Girls ages 5 to 18 are welcome to join anytime throughout the year. There are costs involved with this program. For more information, visit the troop website: [ahgtx0334.trooptrack.com](https://ahgtx0334.trooptrack.com/)
 
 ## Trail Life
 
-Trail Life is a newly formed national organization with a mission to help young men walk worthy and live lives dedicated to purity, service, stewardship, and integrity. The troop hopes to offer a number of outdoor events throughout the year. Boys ages 5 to 18 may join anytime. There are costs involved with this program.
+Trail Life is a national organization with a mission to help young men walk worthy and live lives dedicated to purity, service, stewardship, and integrity. The troop hopes to offer a number of outdoor events throughout the year. Boys ages 5 to 18 may join anytime. There are costs involved with this program.
