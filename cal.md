@@ -14,9 +14,6 @@
 
 6:00 PM   - Bible Study
 
-### Monday
-
-6:00 PM - American Heritage Girls and Trail Life USA
 
 ### Tuesday
 
