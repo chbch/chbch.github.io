@@ -4,7 +4,7 @@ The Preschool program is open for children birth through kindergarten. Childrens
 
 Our Preschool and Children's programs host a number of family-friendly events throughout the year including an Easter Egg Hunt, Vacation Bible School, and our Fall Harvest Fest. Calvary Hills Baptist Church also offers a number of organizations for children to participate.
 
-## Sunday School for Children
+## Sunday School for Preschool
 
 On Sunday mornings, the Preschool program is open for children, birth through kindergarten. The children hear an age-appropriate Bible lesson, hear music, do a craft, and enjoy free play. We use the Bible Teaching for Kids curriculum.
 
@@ -23,9 +23,7 @@ When you arrive at the nursery, please sign-in your child and fill out a the saf
 
 Sunday School takes place every Sunday at 9:30 AM.
 
-     1st, 2nd, 3rd grade Curriculum:  Lifeway’s - Bible Teaching for Kids
-
-     4th, 5th, 6th grade Curriculum:  Standard Publishing’s - Super Start!
+     1st through 5th grade Curriculum:  Lifeway’s - Bible Teaching for Kids
 
 ## Girls in Action
 
