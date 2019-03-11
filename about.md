@@ -4,13 +4,15 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ## Our Staff
 
-Gene Ryder - Chairmen of the Decans
+**Chairman of the Deacons** - Gene Ryder
 
-Eric Shields - Director of Student Ministry
+**Director of Student Ministry** - Eric Shields
 
-Tina Burns - Mother's Day Out Director
+**Worship Team Leaders** - Kelli Burns & Carl Mehner
 
-Michelle Valmé - Church Secretary
+**Mother's Day Out Director** - Tina Burns
+
+**Church Secretary** - Michelle Valmé
 
 ## Contact Information
 
