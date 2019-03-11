@@ -4,9 +4,7 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ## Our Staff
 
-Frank Jackson - Interim Pastor
-
-Chris Engstrom - Director of Music
+Gene Ryder - Chairmen of the Decans
 
 Eric Shields - Director of Student Ministry
 
