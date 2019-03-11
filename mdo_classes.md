@@ -5,7 +5,7 @@
 
 We currently have no openings for the 2018-2019 school year.
 
-Fall registration will open on May 2, 2019 for the 2019-2020 school year.
+Fall registration will open on May 2, 2019 at 10:30 a.m. for the 2019-2020 school year.
 
 |  |  |
 | ------------------------------ | -------- |
