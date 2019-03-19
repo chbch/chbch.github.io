@@ -1,4 +1,6 @@
 # Calvary Hills BC Mother's Day Out
+## 2019-2020 School Year Enrollment begins May 2 at 10am
+
 ![](sun.png)
 
 Oh, how sweet the light of day, 
@@ -14,10 +16,9 @@ Our goal at Calvary Hills Mother’s Day Out is to provide a safe loving environ
 
 Classes are in session: Tuesdays and Thursdays from 9 AM to 2 PM. September thru May
 
-## 2019-2020 School Year Enrollment begins May 2
 We accept children 12 months through 4 years of age. Children who celebrate their 5th birthday after September 1st are also welcome. Children ages 3 years and above must be potty trained.
 
-Please **check [class availbilty](mdo_classes.md)** for current openings.
+Please check **[class availbilty](mdo_classes.md)** for current openings.
 
 _____
 
