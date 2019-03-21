@@ -19,9 +19,9 @@
 
 ### Wednesday
 
-6:30 PM - Praise & Prayer Service (Main Sanctuary), Mission Friends, G.A.'s, Youth Bible Study
+6:30 PM - Praise & Prayer Service (Main Sanctuary), Mission Friends, G.A.'s
 
-7:30 PM - Praise Team Practice
+7:45 PM - Praise Team Practice
 
 ### Thursday
 
