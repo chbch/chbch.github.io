@@ -1,8 +1,8 @@
 # Children's Ministry
 
-The Preschool program is open for children birth through kindergarten. Childrens activities are available for grades 1st - 5th.
+The Children's Ministry serves children from birth through 5th grade.
 
-Our Preschool and Children's programs host a number of family-friendly events throughout the year including an Easter Egg Hunt, Vacation Bible School, and our Fall Harvest Fest. Calvary Hills Baptist Church also offers a number of organizations for children to participate.
+Our Preschool and Children's programs host a number of family-friendly events throughout the year including an Easter Egg Hunt, Vacation Bible School, and our Fall Trunk or Treat. Calvary Hills Baptist Church also partners with a number of organizations for children to participate.
 
 ## Sunday School for Preschool
 
