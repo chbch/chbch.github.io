@@ -1,3 +1,6 @@
+![Sunrise Service 6:30am](banner1.png)
+
+---
 
 # Join Us In Worship Sunday Mornings 
 ## &nbsp;&nbsp;9:30 for Sunday School
@@ -5,5 +8,5 @@
 [910 W. Loop 1604 North, San Antonio, TX 78251](https://goo.gl/maps/YCmg9fCGHXT2)
 
 ---
-![Sunrise Service 6:30am](banner1.png)
+
 ![Worship, Study, Fellowship, and Service](bible.png)
