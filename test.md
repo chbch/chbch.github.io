@@ -4,7 +4,8 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ## Our Staff
 
-
+---
+<div class="staff">
 **Chairman of the Deacons** - Gene Ryder
 
 ![Chairman of the Deacons](./deacon.png "Gene Ryder")
@@ -25,7 +26,7 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 ![Mother's Day Out Director](./mdo.png "Tina Burns")
 
 **Church Secretary** - Michelle Valmé
-
+</div>
 ## Contact Information
 
 Church Office : 210-681-2446
