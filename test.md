@@ -4,13 +4,13 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ## Our Staff
 
-![Chairman of the Deacons](./images/deacon.png "Gene Ryder") **Chairman of the Deacons** - Gene Ryder
+![Chairman of the Deacons](./deacon.png "Gene Ryder") **Chairman of the Deacons** - Gene Ryder
 
-![Director of Student Ministry](./images/youth.png "Eric Shields") **Director of Student Ministry** - Eric Shields
+![Director of Student Ministry](./youth.png "Eric Shields") **Director of Student Ministry** - Eric Shields
 
-![Worship Team Leaders](./images/music.png "Kelli Burns & Carl Mehner") **Worship Team Leaders** - Kelli Burns & Carl Mehner
+![Worship Team Leaders](./music.png "Kelli Burns & Carl Mehner") **Worship Team Leaders** - Kelli Burns & Carl Mehner
 
-![Mother's Day Out Director](./images/mdo.png "Tina Burns") **Mother's Day Out Director** - Tina Burns
+![Mother's Day Out Director](./mdo.png "Tina Burns") **Mother's Day Out Director** - Tina Burns
 
 **Church Secretary** - Michelle Valmé
 
