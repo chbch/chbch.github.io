@@ -4,15 +4,55 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ## Our Staff
 
+---
+
+<div id="staff" markdown="1">
+
 **Chairman of the Deacons** - Gene Ryder
+
+![Chairman of the Deacons](./deacon.png "Gene Ryder")
+
+---
 
 **Director of Student Ministry** - Eric Shields
 
+![Director of Student Ministry](./youth.png "Eric Shields")
+
+---
+
+**Sunday School Director** - Tim Shankle
+
+![Sunday School Director](./sschool.png "Tim Shankle")
+
+---
+
+**Discipleship Training Director** - Al Soto
+
+![Discipleship Training Director](./discipleship.png "Al Soto")
+
+---
+
 **Worship Team Leaders** - Kelli Burns & Carl Mehner
 
-**Mother's Day Out Director** - Tina Burns
+![Worship Team Leaders](./music.png "Kelli Burns & Carl Mehner")
+
+---
+
+**Mother's Day Out & Preschool Director** - Tina Burns
+
+![Mother's Day Out Director](./mdo.png "Tina Burns")
+
+---
+
+**Safety and Security Director** - Jesse Pullen
+
+![Safety and Security Director](./safety.png "Jesse Pullen")
+
+---
 
 **Church Secretary** - Michelle Valmé
+
+</div>
 
 ## Contact Information
 
