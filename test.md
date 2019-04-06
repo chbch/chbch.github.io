@@ -18,6 +18,16 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 ![Director of Student Ministry](./youth.png "Eric Shields")
 
 
+**Sunday School Director** - Tim Shankle
+
+![Sunday School Director](./sschool.png "Tim Shankle")
+
+
+**Discipleship Training Director** - Al Soto
+
+![Discipleship Training Director](./discipleship.png "Al Soto")
+
+
 **Worship Team Leaders** - Kelli Burns & Carl Mehner
 
 ![Worship Team Leaders](./music.png "Kelli Burns & Carl Mehner")
@@ -26,6 +36,12 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 **Mother's Day Out Director** - Tina Burns
 
 ![Mother's Day Out Director](./mdo.png "Tina Burns")
+
+
+**Safety and Security Director** - Jesse Pullen
+
+![Safety and Security Director](./safety.png "Jesse Pullen")
+
 
 **Church Secretary** - Michelle Valmé
 
