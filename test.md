@@ -6,7 +6,7 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ---
 
-<div class="staff">
+<div class="staff" markdown="1">
 
 **Chairman of the Deacons** - Gene Ryder
 
