@@ -1,4 +1,3 @@
-![Sunrise Service 6:30am](banner1.png)
 
 ---
 
