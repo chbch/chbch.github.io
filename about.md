@@ -52,6 +52,10 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 **Church Secretary** - Michelle Valmé
 
+![Church Secretary](./sec.png "Michelle Valmé")
+
+---
+
 </div>
 
 ## Contact Information
