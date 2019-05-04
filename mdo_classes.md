@@ -12,10 +12,10 @@ We currently have no openings for the 2018-2019 school year.
 | Younger 1's (12 - 18 Months)   | 3 spaces |
 | Older 1's (18 - 24 Months)     | 2 spaces |
 | Younger 2's (24 - 30 Months)   | 0 spaces |
-| Older 2's (30 - 36 Months)     | 5 spaces |
-| Younger 3's (36 - 44 Months) | 3 space  |
-| Older 3's / Younger 4's (42 - 52 Months)  | 5 spaces |
-| Pre-K (52 - 60 Months) Must turn 5 after Sept.1st  | 5 spaces |
+| Older 2's (30 - 36 Months)     | 0 spaces |
+| Younger 3's (36 - 44 Months) | 0 spaces  |
+| Older 3's / Younger 4's (42 - 52 Months)  | 2 spaces |
+| Pre-K (52 - 60 Months) Must turn 5 after Sept.1st  | 0 spaces |
 
 -----
 
