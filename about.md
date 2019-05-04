@@ -44,7 +44,7 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ---
 
-**Safety and Security Director** - Jesse Pullen
+**Safety Director** - Jesse Pullen
 
 ![Safety Director](./safety.png "Jesse Pullen")
 
