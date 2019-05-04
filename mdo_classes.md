@@ -1,7 +1,7 @@
 # Mother's Day Out
 ## Class Space Availability for 2019-2020 School Year
 
-*As of May 1, 2019*
+*As of May 3, 2019*
 
 We currently have no openings for the 2018-2019 school year.
 
