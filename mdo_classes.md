@@ -5,7 +5,7 @@
 
 We currently have no openings for the 2018-2019 school year.
 
-**Fall registration will open on May 2, 2019 at 10:00 a.m. for the 2019-2020 school year.**
+**Fall registration will open on May 20, 2019 at 10:00 a.m. for the 2019-2020 school year.**
 
 |  |  |
 | -------------------------------- | -------- |
@@ -14,7 +14,7 @@ We currently have no openings for the 2018-2019 school year.
 | Younger 2's (24 - 30 Months)   | 0 spaces |
 | Older 2's (30 - 36 Months)     | 0 spaces |
 | Younger 3's (36 - 44 Months) | 0 spaces  |
-| Older 3's / Younger 4's (42 - 52 Months)  | 2 spaces |
+| Older 3's / Younger 4's (42 - 52 Months)  | 0 spaces |
 | Pre-K (52 - 60 Months) Must turn 5 after Sept.1st  | 0 spaces |
 
 -----
