@@ -1,11 +1,11 @@
 # Mother's Day Out
 ## Class Space Availability for 2019-2020 School Year
 
-*As of May 3, 2019*
+*As of May 20, 2019*
 
 We currently have no openings for the 2018-2019 school year.
 
-**Fall registration will open on May 20, 2019 at 10:00 a.m. for the 2019-2020 school year.**
+**Fall registration will open on May 2, 2019 at 10:00 a.m. for the 2019-2020 school year.**
 
 |  |  |
 | -------------------------------- | -------- |
