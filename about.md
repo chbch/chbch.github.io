@@ -8,6 +8,12 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 <div id="staff" markdown="1">
 
+**Pastor** - Jared Kress
+
+![Pastor](./pastor.png "Jared Kress")
+
+---
+
 **Chairman of the Deacons** - Gene Ryder
 
 ![Chairman of the Deacons](./deacon.png "Gene Ryder")
