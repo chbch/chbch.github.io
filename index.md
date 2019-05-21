@@ -1,4 +1,4 @@
-[Vacation Bible School - July 22 to July 26](https://vbsmate.com/events/CalvaryHillsBaptistSA/17822)
+[Vacation Bible School - Sign up here](https://vbsmate.com/events/CalvaryHillsBaptistSA/17822)
 
 [![Vacation Bible School - July 22 to July 26](banner1.png)](https://vbsmate.com/events/CalvaryHillsBaptistSA/17822)
 
