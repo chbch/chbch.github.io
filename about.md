@@ -14,9 +14,25 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ---
 
-**Chairman of the Deacons** - Gene Ryder
+**Church Secretary** - Michelle Valmé
 
-![Chairman of the Deacons](./deacon.png "Gene Ryder")
+![Church Secretary](./sec.png "Michelle Valmé")
+
+---
+
+**Mother's Day Out & Preschool Director** - Tina Burns
+
+![Mother's Day Out Director](./mdo.png "Tina Burns")
+
+---
+
+## Lead Volunteers
+
+---
+
+**Worship Team Leaders** - Kelli Burns & Carl Mehner
+
+![Worship Team Leaders](./music.png "Kelli Burns & Carl Mehner")
 
 ---
 
@@ -38,27 +54,15 @@ We are a Southern Baptist Church. We are affiliated with the Baptist General Con
 
 ---
 
-**Worship Team Leaders** - Kelli Burns & Carl Mehner
-
-![Worship Team Leaders](./music.png "Kelli Burns & Carl Mehner")
-
----
-
-**Mother's Day Out & Preschool Director** - Tina Burns
-
-![Mother's Day Out Director](./mdo.png "Tina Burns")
-
----
-
 **Safety Director** - Jesse Pullen
 
 ![Safety Director](./safety.png "Jesse Pullen")
 
 ---
 
-**Church Secretary** - Michelle Valmé
+**Chairman of the Deacons** - Gene Ryder
 
-![Church Secretary](./sec.png "Michelle Valmé")
+![Chairman of the Deacons](./deacon.png "Gene Ryder")
 
 ---
 
