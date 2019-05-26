@@ -1,5 +1,5 @@
 ## Worship
-Sunday morning worship is led by a praise team and includes both contemporary and traditional hymns. The praise team is a weekly rotation of men and women. Practices are on Wednesdays at 7:30 pm and Sundays at 9 am. We are always looking for additional musicians, both singers and especially instrumentalists to to join the group and play on a rotational basis.  Please contact the church for an audition.
+Sunday morning worship is led by a praise team and includes both contemporary and traditional hymns. The praise team is a rotation of a small group of men and women. Practices are on Wednesdays at 7:45 pm and Sundays at 9 am. We are always looking for additional musicians, both singers and especially instrumentalists to to join the group and play on a rotational basis.  Please contact the church if you are interested.
 
 ## [Children's Ministry](childrens.md)
 The Preschool program is open for children birth through kindergarten. Children's activities are available for kindergarden - 5th grade.
