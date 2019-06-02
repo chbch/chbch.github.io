@@ -1,7 +1,7 @@
 # Mother's Day Out
 ## Class Space Availability for 2019-2020 School Year
 
-*As of May 25, 2019*
+*As of June 1, 2019*
 
 We currently have no openings for the 2018-2019 school year.
 
@@ -9,7 +9,7 @@ We currently have no openings for the 2018-2019 school year.
 
 |  |  |
 | -------------------------------- | -------- |
-| Younger 1's (12 - 18 Months)   | 3 spaces |
+| Younger 1's (12 - 18 Months)   | 2 spaces |
 | Older 1's (18 - 24 Months)     | 0 spaces |
 | Younger 2's (24 - 30 Months)   | 0 spaces |
 | Older 2's (30 - 36 Months)     | 0 spaces |
