@@ -3,8 +3,6 @@
 
 *As of June 1, 2019*
 
-We currently have no openings for the 2018-2019 school year.
-
 **Fall registration is open for the 2019-2020 school year.**
 
 |  |  |
