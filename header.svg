@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="250"
-   viewBox="0 0 500.00005 250.00002"
+   width="620"
+   height="300"
+   viewBox="0 0 620.00006 300.00002"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -42,8 +42,8 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8116076"
-     inkscape:cx="250"
+     inkscape:zoom="1.4621143"
+     inkscape:cx="310"
      inkscape:cy="125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -71,43 +71,47 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-802.36219)">
+     transform="translate(0,-752.36219)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4.7418122"
-       y="1040.3099"
-       id="text4161"><tspan
-         sodipodi:role="line"
-         id="tspan4163"
-         x="4.7418122"
-         y="1040.3099"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:21.88719749px;line-height:1.25;font-family:BonvenoCF;-inkscape-font-specification:'BonvenoCF Ultra-Light';fill:#808080">A family of God, serving families for God</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="222.22221"
+       x="310"
        y="980.4444"
        id="text4163"><tspan
          sodipodi:role="line"
          id="tspan4165"
-         x="222.22221"
+         x="310"
          y="980.4444"
          style="font-size:22.5px;line-height:1.25;font-family:sans-serif"> </tspan></text>
-    <text
-       transform="scale(0.95325404,1.0490383)"
-       id="text4167"
-       y="964.2276"
-       x="6.4555049"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.32316494px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647;stroke:none;stroke-width:0.94359714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.95424652px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647;stroke-width:0.94359714px"
-         y="964.2276"
-         x="6.4555049"
-         sodipodi:role="line"
-         id="tspan1896">Calvary Hills Baptist Church</tspan></text>
     <g
-       transform="matrix(0.21226738,0,0,-0.21226738,143.86637,1001.9592)"
+       id="g1439"
+       transform="matrix(1.232496,0,0,1.232496,-72.073762,-239.61546)">
+      <text
+         id="text4161"
+         y="1040.3099"
+         x="64.741814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:21.88719749px;line-height:1.25;font-family:BonvenoCF;-inkscape-font-specification:'BonvenoCF Ultra-Light';fill:#808080"
+           y="1040.3099"
+           x="64.741814"
+           id="tspan4163"
+           sodipodi:role="line">A family of God, serving families for God</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.32316494px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647;stroke:none;stroke-width:0.94359714px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="69.397804"
+         y="964.2276"
+         id="text4167"
+         transform="scale(0.95325404,1.0490383)"><tspan
+           id="tspan1896"
+           sodipodi:role="line"
+           x="69.397804"
+           y="964.2276"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.95424652px;line-height:1.25;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#607d8f;fill-opacity:0.94117647;stroke-width:0.94359714px">Calvary Hills Baptist Church</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.274276,0,0,-0.274276,172.86207,1002.991)"
        id="g1788">
       <g
          inkscape:export-ydpi="90"
